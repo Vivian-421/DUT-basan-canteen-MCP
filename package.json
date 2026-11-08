@@ -1,0 +1,52 @@
+{
+  "name": "dut-basan-canteen-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "八三食堂菜单 MCP：独立邮箱档案、个人偏好和备注",
+  "engines": { "node": ">=22.20.0" },
+  "repository": { "type": "git", "url": "https://github.com/Vivian-421/DUT-basan-canteen-MCP.git" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node dist/server/http.js",
+    "stdio": "node dist/server/stdio.js",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:dsh": "node scripts/canteen/verify-dsh.mjs",
+    "test:smoke": "node scripts/smoke.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.29.0",
+    "mongoose": "8.23.1",
+    "express": "5.2.1",
+    "zod": "3.25.67",
+    "nodemailer": "9.0.1",
+    "dotenv": "16.4.7",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@tanstack/react-query": "4.36.1",
+    "lucide-react": "0.525.0",
+    "clsx": "2.1.1",
+    "tailwind-merge": "1.14.0",
+    "class-variance-authority": "0.7.1",
+    "@radix-ui/react-slot": "1.0.2"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "esbuild": "0.28.2",
+    "vite": "8.0.16",
+    "vitest": "5.1.0",
+    "jsdom": "31.0.0",
+    "tailwindcss": "3.4.1",
+    "postcss": "8.5.13",
+    "autoprefixer": "10.4.24",
+    "@types/node": "24.12.4",
+    "@types/express": "5.0.0",
+    "@types/nodemailer": "8.0.2",
+    "@types/react": "18.2.53",
+    "@types/react-dom": "18.2.18",
+    "mongodb-memory-server": "11.0.1",
+    "@testing-library/react": "14.3.1"
+  }
+}

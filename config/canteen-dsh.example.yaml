@@ -1,0 +1,10 @@
+# 合并到个人DSH实际使用的profile；QQ AI须使用同一个profile。
+# 个人连接凭据从公开的/canteen页面经邮箱验证后生成，不要分享给其他人。
+- id: basan-menu
+  name: '@deepseek-ai/dsh-mcp-client'
+  config:
+    serverName: basan
+    transport: streamable-http
+    url: https://chat.vivianchat.com/mcp/canteen-public
+    headers:
+      Authorization: 'Bearer 在连接页生成的个人凭据'

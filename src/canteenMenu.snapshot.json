@@ -1,0 +1,1951 @@
+{
+  "restaurant": "八食堂三楼丨大洼店",
+  "address": "大连理工大学（盘锦校区）",
+  "source": "微信小程序菜单页面逐分类采集",
+  "capturedAt": "2026-10-25T13:22:25.048Z",
+  "notices": [
+    "满25.00元免配送费",
+    "电话18604973338",
+    "外卖送达会以短信方式通知您",
+    "菜品图片仅参考 以实物为准",
+    "米悦拌饭营业中"
+  ],
+  "categories": [
+    {
+      "name": "本店优惠",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:31:08.919Z",
+      "dishes": [
+        {
+          "name": "金牌卤肉饭",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "487",
+          "price": 15.9,
+          "originalPrice": 18
+        },
+        {
+          "name": "下饭干锅鸡煲＋米饭",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "615",
+          "price": 19,
+          "originalPrice": 22,
+          "options": [
+            "麻辣",
+            "酱香",
+            "甜辣"
+          ]
+        },
+        {
+          "name": "番茄肉丸煲＋米饭",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "228",
+          "price": 14.9,
+          "originalPrice": 17
+        },
+        {
+          "name": "肉段甘蓝粉条煲＋米饭",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "79",
+          "price": 14.9,
+          "originalPrice": 17
+        },
+        {
+          "name": "碳烤鲜猪骨",
+          "priceFrom": false,
+          "tags": [],
+          "price": 14.9,
+          "originalPrice": 18
+        }
+      ]
+    },
+    {
+      "name": "招牌火锅鸡",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T13:01:07.001Z",
+      "dishes": [
+        {
+          "name": "招牌火锅鸡",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "533",
+          "price": 68,
+          "addOns": [
+            {
+              "name": "单加宽粉",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "226",
+              "price": 10
+            },
+            {
+              "name": "单加豆皮",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "48",
+              "price": 10
+            },
+            {
+              "name": "单加藕片",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "25",
+              "price": 10
+            },
+            {
+              "name": "单加鱼豆腐",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "23",
+              "price": 16
+            },
+            {
+              "name": "单家面筋6串",
+              "priceFrom": false,
+              "tags": [],
+              "monthlySales": "11",
+              "price": 10
+            },
+            {
+              "name": "单加玉米",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "20",
+              "price": 10
+            },
+            {
+              "name": "单加年糕",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "27",
+              "price": 10
+            },
+            {
+              "name": "单加肥牛",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "11",
+              "price": 45
+            },
+            {
+              "name": "单加牛腩",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "4",
+              "price": 48
+            },
+            {
+              "name": "单加排骨",
+              "priceFrom": true,
+              "tags": [],
+              "monthlySales": "7",
+              "price": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "鱼福记香辣烤鱼",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:38:39.097Z",
+      "dishes": [
+        {
+          "name": "鱼福记无骨烤鱼",
+          "priceFrom": true,
+          "tags": [
+            "招牌"
+          ],
+          "monthlySales": "214",
+          "price": 39
+        },
+        {
+          "name": "渔福记香辣烤鱼",
+          "priceFrom": false,
+          "tags": [
+            "招牌"
+          ],
+          "monthlySales": "40",
+          "price": 68
+        }
+      ]
+    },
+    {
+      "name": "精品炒菜",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:42:20.084Z",
+      "dishes": [
+        {
+          "name": "八三锅包肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "41",
+          "price": 37.9
+        },
+        {
+          "name": "椒盐烤鸭1只",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "51",
+          "price": 38
+        },
+        {
+          "name": "酸辣泡菜肥牛",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "32",
+          "price": 38.9
+        },
+        {
+          "name": "石锅麻辣豆腐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "33",
+          "price": 22.9
+        },
+        {
+          "name": "孜然羊鲜羊肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "15",
+          "price": 45
+        },
+        {
+          "name": "葱爆鲜羊肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "39",
+          "price": 45
+        },
+        {
+          "name": "孜然鲜牛肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "52",
+          "price": 45
+        },
+        {
+          "name": "泡椒黄牛肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "43",
+          "price": 45
+        },
+        {
+          "name": "香辣鸡翅",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "109",
+          "price": 48
+        },
+        {
+          "name": "麻辣香酥鱿鱼",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "55",
+          "price": 39.9
+        },
+        {
+          "name": "辣子鸡腿",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "17",
+          "price": 38.9
+        },
+        {
+          "name": "香炸虾仁",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "25",
+          "price": 48
+        },
+        {
+          "name": "兰花虾仁煎鸡蛋",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "18",
+          "price": 28.9
+        },
+        {
+          "name": "盘锦渔家虾酱豆腐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "23",
+          "price": 28.9
+        },
+        {
+          "name": "盘锦渔家花甲烩茄子",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "21",
+          "price": 28.9
+        },
+        {
+          "name": "糖醋里脊",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "18",
+          "price": 38.9
+        },
+        {
+          "name": "白灼菜心",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "33",
+          "price": 28.9
+        },
+        {
+          "name": "锅包肉拼大虾仁",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "34",
+          "price": 45
+        },
+        {
+          "name": "酸菜滑里脊肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "11",
+          "price": 38.9
+        },
+        {
+          "name": "水煮里脊肉片",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "23",
+          "price": 38.9
+        },
+        {
+          "name": "东北溜肉段",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "39",
+          "price": 38
+        },
+        {
+          "name": "香菇炒油菜",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "18",
+          "price": 23.9
+        },
+        {
+          "name": "芹菜炒肉丝",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "16",
+          "price": 20
+        },
+        {
+          "name": "牛肉炖土豆",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "16",
+          "price": 42
+        },
+        {
+          "name": "肉末干锅土豆片",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "47",
+          "price": 23.9
+        },
+        {
+          "name": "番茄炖牛肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "33",
+          "price": 45
+        },
+        {
+          "name": "双椒里脊肉片",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "11",
+          "price": 32
+        },
+        {
+          "name": "蒜蓉唐菜",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "33",
+          "price": 19.9
+        },
+        {
+          "name": "家炖鲁子鱼",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "4",
+          "price": 68
+        },
+        {
+          "name": "红烧清江鱼",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "16",
+          "price": 49
+        },
+        {
+          "name": "排骨炖酸菜",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "7",
+          "price": 39.9
+        },
+        {
+          "name": "香辣排骨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "11",
+          "price": 42
+        },
+        {
+          "name": "糖醋排骨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "24",
+          "price": 42
+        },
+        {
+          "name": "软炸里脊",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "11",
+          "price": 38.9
+        },
+        {
+          "name": "香葱虾仁炒鸡蛋",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "27",
+          "price": 30
+        },
+        {
+          "name": "兰花木耳虾仁",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "36",
+          "price": 28.9
+        },
+        {
+          "name": "糖醋无骨鱼",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "40",
+          "price": 38.9
+        },
+        {
+          "name": "招牌双椒无骨鱼",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "10",
+          "price": 38.9
+        },
+        {
+          "name": "双椒肉末爆鸡蛋",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "23",
+          "price": 24.9
+        },
+        {
+          "name": "韭黄炒鸡蛋",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "17",
+          "price": 26.9
+        },
+        {
+          "name": "双椒爆牛肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "18",
+          "price": 45
+        },
+        {
+          "name": "肉末大葱烧豆腐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "41",
+          "price": 19.9
+        },
+        {
+          "name": "木须虾仁",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "28",
+          "price": 28.9
+        },
+        {
+          "name": "大葱烧鸡蛋",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "29",
+          "price": 20.9
+        },
+        {
+          "name": "荷兰豆木耳虾仁",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "21",
+          "price": 28.9
+        },
+        {
+          "name": "干锅有机菜花",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "36",
+          "price": 23.9
+        },
+        {
+          "name": "蒜蓉西兰花",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "24",
+          "price": 23.9
+        },
+        {
+          "name": "白菜炖豆腐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "48",
+          "price": 18.9
+        },
+        {
+          "name": "干锅小蹄",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "121",
+          "price": 39.9
+        }
+      ]
+    },
+    {
+      "name": "家常凉菜",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T13:02:02.006Z",
+      "dishes": [
+        {
+          "name": "辣汁黄瓜",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "31",
+          "price": 12
+        },
+        {
+          "name": "老醋花生米",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "6",
+          "price": 22
+        },
+        {
+          "name": "口水鸡",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "70",
+          "price": 28
+        },
+        {
+          "name": "盘锦碱地柿子拌白糖",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "10",
+          "price": 23.9
+        },
+        {
+          "name": "黄瓜拌干豆腐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "34",
+          "price": 13.9
+        },
+        {
+          "name": "皮蛋豆腐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "100",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "name": "烤串炸串",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T13:08:56.176Z",
+      "dishes": [
+        {
+          "name": "手工鸡肉1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "381",
+          "price": 3
+        },
+        {
+          "name": "手工羊肉1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "1469+",
+          "price": 3
+        },
+        {
+          "name": "手工牛肉1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "1144+",
+          "price": 3
+        },
+        {
+          "name": "奥尔良鸡胗1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "177",
+          "price": 3
+        },
+        {
+          "name": "爆浆芝士棒1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "253",
+          "price": 4
+        },
+        {
+          "name": "肉多鸡排1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "445",
+          "price": 3
+        },
+        {
+          "name": "大成牛排1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "193",
+          "price": 4
+        },
+        {
+          "name": "手工培根卷1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "118",
+          "price": 3
+        },
+        {
+          "name": "网红肉串1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "326",
+          "price": 3
+        },
+        {
+          "name": "正新鱼豆腐1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "172",
+          "price": 3
+        },
+        {
+          "name": "黑胡椒肉肠1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "141",
+          "price": 4
+        },
+        {
+          "name": "金锣肠1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "48",
+          "price": 4
+        },
+        {
+          "name": "正新面肠1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "573",
+          "price": 2.5
+        },
+        {
+          "name": "大成香肠1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "162",
+          "price": 3
+        },
+        {
+          "name": "唐杨棒1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "82",
+          "price": 3
+        },
+        {
+          "name": "鸡翅中1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "168",
+          "price": 8
+        },
+        {
+          "name": "大成鸡柳2串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "84",
+          "price": 5
+        },
+        {
+          "name": "里脊肉片2串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "72",
+          "price": 5
+        },
+        {
+          "name": "骨肉相连1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "228",
+          "price": 3
+        },
+        {
+          "name": "芝士鱼排1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "210",
+          "price": 3
+        },
+        {
+          "name": "猪梅花肉1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "592",
+          "price": 3.5
+        },
+        {
+          "name": "炭烧脊背肉串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "164",
+          "price": 4
+        },
+        {
+          "name": "千页豆腐2串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "297",
+          "price": 3
+        },
+        {
+          "name": "正新面筋1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "571",
+          "price": 2
+        },
+        {
+          "name": "网红筋包肉1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "262",
+          "price": 3
+        },
+        {
+          "name": "风味大鸡皮1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "216",
+          "price": 3
+        },
+        {
+          "name": "五花肉金针菇1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "179",
+          "price": 4
+        },
+        {
+          "name": "草帽香菇2串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "85",
+          "price": 5
+        },
+        {
+          "name": "豆皮金针菇2串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "102",
+          "price": 5
+        },
+        {
+          "name": "老式豆皮1把",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "83",
+          "price": 7
+        },
+        {
+          "name": "手工鸡皮6串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "59",
+          "price": 10
+        },
+        {
+          "name": "手工石蛋1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "156",
+          "price": 3.5
+        },
+        {
+          "name": "甜糯吐司1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "160",
+          "price": 3.5
+        },
+        {
+          "name": "手工干豆卷1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "144",
+          "price": 3
+        },
+        {
+          "name": "有机花3串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "58",
+          "price": 5
+        },
+        {
+          "name": "脆包菜3串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "139",
+          "price": 5
+        },
+        {
+          "name": "西兰花3串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "73",
+          "price": 5
+        },
+        {
+          "name": "韩式小肠5串",
+          "priceFrom": false,
+          "tags": [],
+          "price": 4
+        },
+        {
+          "name": "面包片1串",
+          "priceFrom": false,
+          "tags": [],
+          "price": 2
+        },
+        {
+          "name": "碳烤鲜猪骨",
+          "priceFrom": false,
+          "tags": [],
+          "price": 14.9,
+          "originalPrice": 18
+        },
+        {
+          "name": "活虾穿串1只",
+          "priceFrom": false,
+          "tags": [],
+          "price": 3
+        },
+        {
+          "name": "甜玉米粒10串",
+          "priceFrom": false,
+          "tags": [],
+          "price": 7
+        },
+        {
+          "name": "正新小酥肉1把",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "35",
+          "price": 8
+        },
+        {
+          "name": "章鱼丸1串",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "41",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "name": "特色炒饭",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T13:12:50.453Z",
+      "dishes": [
+        {
+          "name": "青椒肉粒炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "53",
+          "price": 10
+        },
+        {
+          "name": "红烧肉丁炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "110",
+          "price": 12
+        },
+        {
+          "name": "牛肉时蔬炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "139",
+          "price": 13
+        },
+        {
+          "name": "牛肉炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "313",
+          "price": 10
+        },
+        {
+          "name": "肉蛋黑胡椒肠炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "289",
+          "price": 12
+        },
+        {
+          "name": "腊肠炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "81",
+          "price": 10
+        },
+        {
+          "name": "鱿鱼炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "125",
+          "price": 12
+        },
+        {
+          "name": "酱油炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "42",
+          "price": 10
+        },
+        {
+          "name": "肉蛋老干妈炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "61",
+          "price": 12
+        },
+        {
+          "name": "肉蛋香辣酥炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "38",
+          "price": 11
+        },
+        {
+          "name": "韩式泡菜鱿鱼炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "85",
+          "price": 13.5
+        },
+        {
+          "name": "韩式泡菜里脊炒饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "57",
+          "price": 13.9
+        },
+        {
+          "name": "肉蛋金锣肠炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "37",
+          "price": 12
+        },
+        {
+          "name": "肉末酸豆角炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "33",
+          "price": 12
+        },
+        {
+          "name": "肉松海苔鸡肉炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "50",
+          "price": 13
+        },
+        {
+          "name": "番茄牛肉粒炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "115",
+          "price": 14
+        },
+        {
+          "name": "辣白菜炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "18",
+          "price": 10
+        },
+        {
+          "name": "肉蛋橄榄菜炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "15",
+          "price": 12
+        },
+        {
+          "name": "肉蛋虾皮炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "14",
+          "price": 12
+        },
+        {
+          "name": "奥尔良烤排土豆炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "85",
+          "price": 13
+        },
+        {
+          "name": "肉蛋雷椒皮蛋炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "36",
+          "price": 14
+        },
+        {
+          "name": "超辣肉末炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "16",
+          "price": 12
+        },
+        {
+          "name": "肉末土豆炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "18",
+          "price": 12
+        },
+        {
+          "name": "扬州炒饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "56",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "name": "现炒盖饭",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T13:16:39.073Z",
+      "dishes": [
+        {
+          "name": "双椒黄牛肉粒盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "117",
+          "price": 15.9
+        },
+        {
+          "name": "肉末蒜苔鸡蛋盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "44",
+          "price": 13.5
+        },
+        {
+          "name": "辣椒炒鸡盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "128",
+          "price": 13.5
+        },
+        {
+          "name": "牛肉土豆饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "162",
+          "price": 19
+        },
+        {
+          "name": "牛排骨肉土豆盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "40",
+          "price": 19
+        },
+        {
+          "name": "双椒肥牛盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "84",
+          "price": 19
+        },
+        {
+          "name": "孜然肥牛饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "171",
+          "price": 19
+        },
+        {
+          "name": "酱卤五花肉拼饭",
+          "priceFrom": true,
+          "tags": [],
+          "monthlySales": "217",
+          "price": 13.5
+        },
+        {
+          "name": "双椒里脊肉盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "22",
+          "price": 15
+        },
+        {
+          "name": "木须鸡蛋盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "49",
+          "price": 13
+        },
+        {
+          "name": "黑胡椒猪柳饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "19",
+          "price": 14
+        },
+        {
+          "name": "青椒鸡蛋肉末盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "56",
+          "price": 13
+        },
+        {
+          "name": "剁椒鸡蛋盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "4",
+          "price": 13
+        },
+        {
+          "name": "香葱肉沫煎蛋盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "44",
+          "price": 14
+        },
+        {
+          "name": "青椒肉末土豆盖",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "12",
+          "price": 14
+        },
+        {
+          "name": "老式东北油渣盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "323",
+          "price": 13.5
+        },
+        {
+          "name": "肉末番茄鸡蛋盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "89",
+          "price": 13
+        },
+        {
+          "name": "网红川辣盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "31",
+          "price": 15
+        },
+        {
+          "name": "青椒猪肉丝盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "50",
+          "price": 14
+        },
+        {
+          "name": "鸡肉烧香菇盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "52",
+          "price": 14
+        },
+        {
+          "name": "新疆土豆炒鸡盖饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "115",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "手工水饺",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T13:18:30.889Z",
+      "dishes": [
+        {
+          "name": "青椒猪肉水饺",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "17",
+          "price": 16.5
+        },
+        {
+          "name": "香菇猪肉水饺",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "69",
+          "price": 16.5
+        },
+        {
+          "name": "芹菜猪肉水饺",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "61",
+          "price": 16.5
+        },
+        {
+          "name": "白菜猪肉水饺",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "99",
+          "price": 16.5
+        },
+        {
+          "name": "洋葱牛肉水饺",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "53",
+          "price": 21
+        },
+        {
+          "name": "三鲜猪肉水饺",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "160",
+          "price": 20
+        }
+      ],
+      "addOns": [
+        {
+          "name": "醋＋辣椒油包",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "200",
+          "price": 0.5
+        }
+      ]
+    },
+    {
+      "name": "吉祥馄饨",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T13:21:42.963Z",
+      "dishes": [
+        {
+          "name": "大虾鲜肉馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "60",
+          "price": 17
+        },
+        {
+          "name": "玉米鲜肉馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "55",
+          "price": 13.5
+        },
+        {
+          "name": "香菇鲜肉馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "34",
+          "price": 13.5
+        },
+        {
+          "name": "三鲜虾仁馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "37",
+          "price": 16
+        },
+        {
+          "name": "皮蛋鲜肉馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "39",
+          "price": 13.5
+        },
+        {
+          "name": "黄瓜鲜肉馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "6",
+          "price": 13.5
+        },
+        {
+          "name": "牛肉圆葱馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "14",
+          "price": 16
+        },
+        {
+          "name": "芹菜鲜肉馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "12",
+          "price": 13.5
+        },
+        {
+          "name": "纯肉鲜肉馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "64",
+          "price": 13.5
+        },
+        {
+          "name": "小白菜鲜肉馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "30",
+          "price": 13.5
+        },
+        {
+          "name": "虾仁素三鲜馄饨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "19",
+          "price": 15
+        }
+      ],
+      "addOns": [
+        {
+          "name": "醋＋辣椒油包",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "63",
+          "price": 0.5
+        }
+      ]
+    },
+    {
+      "name": "家常面条",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T13:22:25.048Z",
+      "dishes": [
+        {
+          "name": "老汤酱香鸡腿面",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "109",
+          "price": 13.9
+        },
+        {
+          "name": "老汤肉酱面",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "28",
+          "price": 13.9
+        },
+        {
+          "name": "咖喱煎蛋面",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "36",
+          "price": 12.9
+        },
+        {
+          "name": "咖喱鸡肉面",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "66",
+          "price": 13.9
+        },
+        {
+          "name": "番茄煎蛋面",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "79",
+          "price": 12.9
+        },
+        {
+          "name": "番茄牛肉面",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "186",
+          "price": 14.9
+        },
+        {
+          "name": "番茄鸡肉面",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "16",
+          "price": 13.9
+        }
+      ]
+    },
+    {
+      "name": "暖胃小煲",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:43:31.508Z",
+      "dishes": [
+        {
+          "name": "下饭干锅鸡煲＋米饭",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "615",
+          "price": 19,
+          "originalPrice": 22,
+          "options": [
+            "麻辣",
+            "酱香",
+            "甜辣"
+          ]
+        },
+        {
+          "name": "番茄肉丸煲＋米饭",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "228",
+          "price": 14.9,
+          "originalPrice": 17
+        },
+        {
+          "name": "肉段甘蓝粉条煲＋米饭",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "79",
+          "price": 14.9,
+          "originalPrice": 17
+        }
+      ]
+    },
+    {
+      "name": "新品小碗菜",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:44:21.009Z",
+      "dishes": [
+        {
+          "name": "肉末酱茄子小碗菜",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "289",
+          "price": 3.9
+        },
+        {
+          "name": "番茄鸡蛋小碗菜",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "476",
+          "price": 3.9
+        },
+        {
+          "name": "肉末芹菜土豆丝小碗菜",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "174",
+          "price": 2.9
+        },
+        {
+          "name": "肉末土豆泥小碗菜",
+          "priceFrom": false,
+          "tags": [
+            "新品"
+          ],
+          "monthlySales": "135",
+          "price": 3.9
+        }
+      ]
+    },
+    {
+      "name": "休闲食品",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:45:04.250Z",
+      "dishes": [
+        {
+          "name": "黄金小油条5根",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "17",
+          "price": 12
+        },
+        {
+          "name": "番茄薯条",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "41",
+          "price": 16
+        },
+        {
+          "name": "奶香小馒头12个",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "65",
+          "price": 10
+        },
+        {
+          "name": "正新鸡块13块",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "49",
+          "price": 16
+        },
+        {
+          "name": "椒盐小酥肉",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "84",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "米饭与餐具",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:46:22.155Z",
+      "dishes": [
+        {
+          "name": "餐具",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "287",
+          "price": 1
+        },
+        {
+          "name": "盘锦大米饭",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "3968+",
+          "price": 1
+        }
+      ]
+    },
+    {
+      "name": "汤",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:48:29.079Z",
+      "dishes": [
+        {
+          "name": "西红柿鸡蛋汤",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "47",
+          "price": 12
+        },
+        {
+          "name": "紫菜蛋花汤",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "58",
+          "price": 12
+        },
+        {
+          "name": "兰花虾仁豆腐汤",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "27",
+          "price": 23.9
+        },
+        {
+          "name": "轻脂西红柿豆腐汤",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "13",
+          "price": 18
+        }
+      ]
+    },
+    {
+      "name": "八三酒水",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:54:59.692Z",
+      "dishes": [
+        {
+          "name": "元气森林白桃",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "14",
+          "price": 5
+        },
+        {
+          "name": "元气森林可乐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "9",
+          "price": 5
+        },
+        {
+          "name": "元气森林卡曼橙味",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "22",
+          "price": 5
+        },
+        {
+          "name": "元气森林白桃味",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "8",
+          "price": 5
+        },
+        {
+          "name": "自在水红枣枸杞",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "47",
+          "price": 5
+        },
+        {
+          "name": "自在水红豆薏米",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "66",
+          "price": 5
+        },
+        {
+          "name": "自在水冰糖雪梨",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "40",
+          "price": 5
+        },
+        {
+          "name": "无糖小可乐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "50",
+          "price": 4
+        },
+        {
+          "name": "罐装无糖可乐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "29",
+          "price": 4
+        },
+        {
+          "name": "罐装崂山啤酒",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "102",
+          "price": 4
+        },
+        {
+          "name": "青岛啤酒",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "40",
+          "price": 7
+        },
+        {
+          "name": "纯悦矿泉水",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "348",
+          "price": 2
+        },
+        {
+          "name": "罐装雪碧",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "13",
+          "price": 4
+        },
+        {
+          "name": "罐装可乐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "38",
+          "price": 4
+        },
+        {
+          "name": "罐装芬达",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "11",
+          "price": 4
+        },
+        {
+          "name": "大可乐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "33",
+          "price": 8
+        },
+        {
+          "name": "大雪碧",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "20",
+          "price": 8
+        },
+        {
+          "name": "大果粒橙",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "19",
+          "price": 10
+        },
+        {
+          "name": "冰红茶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "62",
+          "price": 4
+        },
+        {
+          "name": "青梅绿茶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "30",
+          "price": 4
+        },
+        {
+          "name": "小可乐",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "69",
+          "price": 4
+        },
+        {
+          "name": "小雪碧",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "15",
+          "price": 4
+        },
+        {
+          "name": "小果粒橙",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "41",
+          "price": 4
+        },
+        {
+          "name": "茶派",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "40",
+          "price": 5
+        },
+        {
+          "name": "酷儿橙子汁",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "13",
+          "price": 4
+        },
+        {
+          "name": "酷儿苹果汁",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "28",
+          "price": 4
+        },
+        {
+          "name": "大开卫",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "16",
+          "price": 10
+        },
+        {
+          "name": "小芬达",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "17",
+          "price": 4
+        },
+        {
+          "name": "超旺草莓牛奶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "15",
+          "price": 6
+        },
+        {
+          "name": "旺仔椰子水420ML",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "8",
+          "price": 5
+        },
+        {
+          "name": "超旺旺仔牛奶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "80",
+          "price": 6
+        },
+        {
+          "name": "红菜头葡萄乌龙茶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "9",
+          "price": 5
+        },
+        {
+          "name": "芭乐茉莉康普气泡果茶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "15",
+          "price": 5
+        },
+        {
+          "name": "元气森林鲜柠檬水900ML",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "101",
+          "price": 5.5
+        },
+        {
+          "name": "酷儿葡萄汁",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "37",
+          "price": 4
+        },
+        {
+          "name": "冰淇淋蜜瓜气泡果茶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "22",
+          "price": 5
+        },
+        {
+          "name": "羽衣甘蓝乌龙茶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "21",
+          "price": 5
+        },
+        {
+          "name": "NFC苹果海棠汁1kg",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "9",
+          "price": 12
+        },
+        {
+          "name": "雪梨冰酿气泡果茶",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "20",
+          "price": 5
+        },
+        {
+          "name": "元气森林冰茶900ML柠檬",
+          "priceFrom": false,
+          "tags": [],
+          "monthlySales": "8",
+          "price": 6
+        }
+      ]
+    },
+    {
+      "name": "手工面条",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:55:59.271Z",
+      "dishes": []
+    },
+    {
+      "name": "默认分类",
+      "complete": true,
+      "withdrawn": false,
+      "capturedAt": "2026-10-25T12:57:07.014Z",
+      "dishes": []
+    },
+    {
+      "name": "特色盖浇饭 下架",
+      "complete": true,
+      "withdrawn": true,
+      "capturedAt": "2026-10-25T12:57:59.132Z",
+      "dishes": []
+    }
+  ]
+}
